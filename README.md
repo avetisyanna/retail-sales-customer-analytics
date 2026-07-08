@@ -89,6 +89,7 @@ retail-sales-customer-analytics/
 │   └── README.md
 │
 └── README.md
+```
 
 This project is currently in progress.
 The dashboards, screenshots, documentation, and final insights will be updated as the project is completed and polished.
