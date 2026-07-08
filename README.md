@@ -84,6 +84,7 @@ retail-sales-customer-analytics/
 │   └── project_notes.md
 │
 ├── data/
+|   ├── .gitkeeo
 │   └── README.md
 │
 └── README.md
