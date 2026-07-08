@@ -82,9 +82,7 @@ retail-sales-customer-analytics/
 │
 ├── screenshots/
 │   ├── sales_dashboard_overview.png
-│   ├── customer_dashboard_overview.png
-│   ├── rfm_analysis.png
-│   └── cohort_retention.png
+│   └── customer_dashboard_overview.png
 │
 ├── documentation/
 │   ├── business_questions.md
@@ -93,6 +91,7 @@ retail-sales-customer-analytics/
 │   └── project_notes.md
 │
 ├── data/
+|   ├── .gitkeeo
 │   └── README.md
 │
 └── README.md
