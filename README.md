@@ -25,6 +25,11 @@ This project explores key retail analytics questions such as:
 ### Sales Analysis Dashboard
 
 The sales dashboard focuses on overall retail business performance.
+### Sales Analysis Dashboard
+
+The sales dashboard focuses on overall retail business performance.
+
+![Sales Dashboard Overview](screenshots/sales_dashboard_overview.png)
 
 Main analysis areas:
 
@@ -38,6 +43,8 @@ Main analysis areas:
 ### Customer Analysis Dashboard
 
 The customer dashboard focuses on customer behavior and customer value.
+
+![Customer Dashboard Overview](screenshots/customer_dashboard_overview.png)
 
 Main analysis areas:
 
